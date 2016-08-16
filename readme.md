@@ -2,9 +2,10 @@
 >Auto checking Thai bank balance
 
 ## To install dependencies.
-```javascript
+```
 $ npm install -g phantomjs
 $ npm install -g casperjs
+$ npm install
 ```
 
 ### Config the account
@@ -13,7 +14,6 @@ $ npm install -g casperjs
 
 ### Running the script
 ```
-$ npm install
 $ npm run-script scb
 $ npm run-script kbank
 ```
