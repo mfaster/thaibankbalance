@@ -10,7 +10,7 @@ $ npm install
 
 ### Config the account
 1. Rename ./config/default.example.json to default.json.
-2. Config you credentials and account.
+2. Config credentials and account.
 
 ### Running the script
 ```
