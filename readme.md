@@ -1,5 +1,5 @@
 # Banking
->Auto checing Thai bank balance
+>Auto checking Thai bank balance
 
 ## To install dependencies.
 ```javascript
