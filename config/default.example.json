@@ -1,0 +1,14 @@
+{
+  "Accounts": {
+    "scb": {
+      "account": "XXXX111111",
+      "username": "USERNAME",
+      "password": "PASSWORD"
+    },
+    "kbank": {
+      "account": "111-1-11111-1",
+      "username": "USERNAME",
+      "password": "PASSWORD"
+    }
+  }
+}
