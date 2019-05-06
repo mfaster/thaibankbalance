@@ -4,6 +4,7 @@
   "description": "",
   "main": "example.js",
   "dependencies": {
+    "casperjs": "^1.1.4",
     "config": "^1.21.0",
     "date-and-time": "^0.3.0",
     "yargs": "^4.8.1"
